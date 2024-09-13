@@ -33,7 +33,7 @@ The `tools` directory contains the following scripts:
 
 ### Inference
 
-Please download pre-trained weights first.
+Please download pre-trained weights first: https://huggingface.co/WangFangjun/FRDC-RDD.
 
 To get dense outputs of `Co-DERT` and `RTMDet`, please use following scripts in corresponding foler:
 
