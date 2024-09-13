@@ -1,0 +1,27 @@
+path: /data0/weijn/RDD2024
+train:
+  - China_Drone/train/images
+  - China_MotorBike/train/images
+  - Czech/train/images
+  - India/train/images
+  - Japan/train/images
+  - Norway/train/images
+  - United_States/train/images
+val:
+  - China_Drone/val/images
+  - Czech/train/val/images
+#  - India/train/val/images
+#  - Japan/train/val/images
+#  - Norway/train/val/images
+#  - United_States/train/val/images
+
+names:
+  0: Repair
+  1: D00
+  2: D10
+  3: D20
+  4: D40
+#  0: D00
+#  1: D10
+#  2: D20
+#  3: D40
