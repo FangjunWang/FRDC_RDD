@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1,3,4,5,6,7 bash dist_test.sh work_dirs/co_dino_5scale_swin_l_16xb1_16e_o365tococo/co_dino_5scale_swin_l_16xb1_16e_o365tococo.py work_dirs/co_dino_5scale_swin_l_16xb1_16e_o365tococo/best_coco_bbox_mAP_epoch_16.pth 6 
