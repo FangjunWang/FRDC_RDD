@@ -6,7 +6,7 @@ This repository contains the code and models for our method of road damage detec
 
 ## About FRDC
 
-FRDC (Fujitsu Research & Development Center, Co., LTD.), homepage: https://www.fujitsu.com/cn/en/about/local/subsidiaries/frdc/
+FRDC (Fujitsu Research & Development Center, Co., LTD.), homepage: https://www.fujitsu.com/cn/en/about/local/subsidiaries/frdc/ \
 Our research fields involve Artificial Intelligence Technologies, Converging Technologies, Data & Security Technologies, and Network Technologies. We look forward to contributing to Fujitsu’s purpose – “to make the world more sustainable by building trust in society through innovation” – through the research and development activities of these cutting-edge technologies.
 
 ## Directory Structure
