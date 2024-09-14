@@ -1,8 +1,8 @@
 
 
-# Road Damage Detection Competition
+# FRDC's method for Road Damage Detection Competition
 
-This repository contains the code and models for road damage detection, submitted for the competition. The code is structured into four main directories, each containing various models and tools used in the detection and processing pipeline.
+This repository contains the code and models for our method of road damage detection, submitted for the competition. The code is structured into five main directories, each containing various models and tools used in the detection and processing pipeline.
 
 ## Directory Structure
 
