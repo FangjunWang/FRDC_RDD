@@ -4,6 +4,11 @@
 
 This repository contains the code and models for our method of road damage detection, submitted for the competition. The code is structured into five main directories, each containing various models and tools used in the detection and processing pipeline.
 
+## About FRDC
+
+FRDC (Fujitsu Research & Development Center, Co., LTD.), homepage: https://www.fujitsu.com/cn/en/about/local/subsidiaries/frdc/
+Our research fields involve Artificial Intelligence Technologies, Converging Technologies, Data & Security Technologies, and Network Technologies. We look forward to contributing to Fujitsu’s purpose – “to make the world more sustainable by building trust in society through innovation” – through the research and development activities of these cutting-edge technologies.
+
 ## Directory Structure
 
 - **Co-DERT**: Contains model configuration and training scripts based on MMDetection 3.3.0.
